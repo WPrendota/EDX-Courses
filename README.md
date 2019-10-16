@@ -1,5 +1,5 @@
 # The finished EDX Courses list
-## The notebooks are hosted on [private website](??) (account requiered).
+## The notebooks are hosted on [private website](??) (account required).
 
 ## 1. ['Professional Certificate: Python Data Science'](https://credentials.edx.org/credentials/dcfc6de80f764ea19ed0bdb73f58d4be/) (October 2019)
 
