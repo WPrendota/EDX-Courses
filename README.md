@@ -16,4 +16,4 @@
 
 
 ## Contributor
-### Witold Prendota
+### Witold
